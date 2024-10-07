@@ -1,4 +1,4 @@
-# Green Sprout 🍀
+# Green Sprout 🌱
 
 This is the project repository of the **Green Sprout** project.
 
